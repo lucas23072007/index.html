@@ -10,13 +10,13 @@
 }
 
 body {
-    background-color: var(--cor-de-fundo);
+    background-color: var(--verde);
     color: var(--branco);
     font-family: 'Chakra Petch', sans-serif;
   }
   */seletor
  
-  .conteudo-principal {
+  .conteudo-principal {meus objetivos}
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -26,7 +26,7 @@ body {
     margin: 0 auto;
 }
 
-.titulo-principal {
+.titulo-principal {FFFFFFFF}
     text-align: left;
     width: 100%;
     font-size: 32px;
